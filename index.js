@@ -1,4 +1,3 @@
-<script src="https://deno.land/std/http/server.ts"></script>
 const s = Deno.listen({ port: 8000 });
 console.log("Listening on http://localhost:8000/");
 
